@@ -1,3 +1,8 @@
+![我我][1]
+
+
+  
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kited86/kitada86.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +40,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+[1]:https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0=baike272,5,5,272,90/sign=e31d7a55dba20cf4529df68d17602053/91ef76c6a7efce1b27893518a451f3deb58f6546.jpg
